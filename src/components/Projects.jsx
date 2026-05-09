@@ -1,6 +1,7 @@
 import spotify from "../assets/spotify.png";
 import yt from "../assets/yt.png";
 import note from "../assets/note.png";
+import profile from "../assets/profile.jpeg";
 
 function Projects() {
   const projects = [

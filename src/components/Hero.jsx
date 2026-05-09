@@ -1,16 +1,12 @@
+import profile from "../assets/profile.jpeg";
+
 function Hero() {
   return (
     <section className="hero">
-      {/* Left Image */}
       <div className="hero-left">
-        <img
-          src="8022105582012392.jpeg"
-          alt="profile"
-          className="profile-img"
-        />
+        <img src={profile} alt="profile" className="profile-img" />
       </div>
 
-      {/* Right Side */}
       <div className="hero-right">
         <h1>Shivam</h1>
 
@@ -35,8 +31,14 @@ function Hero() {
             View Projects
           </button>
 
-          <button >
-            <a href="https://www.instagram.com/shivam_khajuria005/" target="_blank" rel="noreferrer">Contact me</a>
+          <button>
+            <a
+              href="https://www.instagram.com/shivam_khajuria005/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Contact me
+            </a>
           </button>
         </div>
       </div>
