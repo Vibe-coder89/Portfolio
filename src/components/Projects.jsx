@@ -3,21 +3,21 @@ function Projects() {
     {
       title: "ThinkBoard",
       desc: "Modern note-making application with clean UI and fast performance.",
-      img: "ChatGPT Image May 10, 2026, 12_42_30 AM.png",
+      img: "note.png",
       github: "https://github.com/Vibe-coder89/mern-thinkboard",
     },
 
     {
       title: "Spotify Clone",
       desc: "Responsive Spotify-inspired music streaming UI clone.",
-      img: "ChatGPT Image May 9, 2026, 05_19_37 PM.png",
+      img: "spotify.png",
       github: "https://github.com/Vibe-coder89/Spotify-clone",
     },
 
     {
       title: "YouTube Summarizer",
       desc: "AI-powered tool that summarizes YouTube videos.",
-      img: "ChatGPT Image May 9, 2026, 05_21_28 PM.png",
+      img: "yt.png",
       github: "https://github.com/Vibe-coder89/yt-summarizer",
     },
   ];
