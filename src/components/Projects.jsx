@@ -1,23 +1,27 @@
+import spotify from "../assets/spotify.png";
+import yt from "../assets/yt.png";
+import note from "../assets/note.png";
+
 function Projects() {
   const projects = [
     {
       title: "ThinkBoard",
       desc: "Modern note-making application with clean UI and fast performance.",
-      img: "note.png",
+      img: note,
       github: "https://github.com/Vibe-coder89/mern-thinkboard",
     },
 
     {
       title: "Spotify Clone",
       desc: "Responsive Spotify-inspired music streaming UI clone.",
-      img: "spotify.png",
+      img: spotify,
       github: "https://github.com/Vibe-coder89/Spotify-clone",
     },
 
     {
       title: "YouTube Summarizer",
       desc: "AI-powered tool that summarizes YouTube videos.",
-      img: "yt.png",
+      img: yt,
       github: "https://github.com/Vibe-coder89/yt-summarizer",
     },
   ];
